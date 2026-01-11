@@ -48,7 +48,7 @@ The dashboard focuses on campaign effectiveness, customer segmentation, and hist
 ![Executive Overview](dashboard/screenshots/page1_executive_overview.png)
 
 ### Page 2 – Customer Segmentation
-![Customer Segmentation](dashboard/screenshots/page2_customer_segmentation.png)
+![Customer Segmentation](dashboard/screenshots/page2_Customer_Segmentation.png)
 
 ### Page 3 – Historical Impact
 ![Historical Impact](dashboard/screenshots/page3_historical_impact.png)
