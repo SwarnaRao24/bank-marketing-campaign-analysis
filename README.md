@@ -39,3 +39,16 @@ Source: UCI Machine Learning Repository - Bank Marketing Dataset
 **Outcome**
 This project demonstrates practical data analysis skills, business insight generation, and recommendation development aligned with Data Analyst and Business Analyst roles.
 
+## Power BI Dashboard
+
+The following screenshots show the Power BI dashboard built for this project.  
+The dashboard focuses on campaign effectiveness, customer segmentation, and historical impact.
+
+### Page 1 – Executive Overview
+![Executive Overview](dashboard/screenshots/page1_executive_overview.png)
+
+### Page 2 – Customer Segmentation
+![Customer Segmentation](dashboard/screenshots/page2_customer_segmentation.png)
+
+### Page 3 – Historical Impact
+![Historical Impact](dashboard/screenshots/page3_historical_impact.png)
